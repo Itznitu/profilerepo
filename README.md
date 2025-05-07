@@ -1,7 +1,8 @@
 # profilerepo
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6e7fdc,100:52c4c4&height=180&section=header&text=Hi%20there%20👋%20I'm%20[Your%20Name]!&fontSize=28&fontAlign=center&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6e7fdc,100:52c4c4&height=180&section=header&text=Hi%20there%20👋%20I'm%20Nitu!&fontSize=28&fontAlign=center&fontColor=ffffff)
 
 <img align="right" src="https://i.pinimg.com/originals/18/83/8f/18838fc1dba880d7e625184fe75e76c2.gif" width="230"/>
+
 
  👋 Hi, I'm Nitu
 
