@@ -1,4 +1,4 @@
-# profilerepo
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6e7fdc,100:52c4c4&height=180&section=header&text=Hi%20there%20👋%20I'm%20Nitu!&fontSize=28&fontAlign=center&fontColor=ffffff)
 
 <img align="right" src="https://i.pinimg.com/originals/18/83/8f/18838fc1dba880d7e625184fe75e76c2.gif" width="230"/>
@@ -46,23 +46,20 @@ I'm also an active participant in case competitions, always eager to challenge m
 `pandas` `scikit-learn` `matplotlib` `seaborn`  
 `Survey Design` `Market Research` `Financial Analysis`
 
----
 
-## 🏅 Certifications
 
-- 🧠 Google Data Analytics Professional Certificate – Coursera  
-- 📊 Tableau Data Visualization – UC Davis  
-- 🐍 Python for Data Science – University of Colorado Boulder
 
----
 
-## 🏆 Case Competitions
----
+
+
+
+
+
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourname)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/theeanalyst/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](iamnitu12@gmail.com)
 
 ---
 
